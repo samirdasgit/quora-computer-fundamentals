@@ -1,0 +1,33 @@
+Some common shortcut keys for computers
+
+Alt + F4: Close the current window.
+Ctrl + C: Copy the selected item.
+Ctrl + X: Cut the selected item.
+Ctrl + V: Paste the copied or cut item.
+Ctrl + Z: Undo the previous action.
+Ctrl + Y: Redo the previously undone action.
+Ctrl + S: Save the current document.
+Ctrl + N: Open a new document or window.
+Ctrl + O: Open a file.
+Ctrl + P: Print the current document.
+Ctrl + A: Select all items in a document or window.
+Ctrl + F: Find text within a document or webpage.
+Ctrl + H: Replace text within a document or webpage.
+Ctrl + B: Bold the selected text.
+Ctrl + I: Italicize the selected text.
+Ctrl + U: Underline the selected text.
+Ctrl + L: Align text to the left.
+Ctrl + E: Align text to the center.
+Ctrl + R: Align text to the right.
+Ctrl + Home: Move the cursor to the beginning of the document.
+Ctrl + End: Move the cursor to the end of the document.
+Ctrl + Tab: Switch between open tabs or documents.
+Ctrl + Shift + Esc: Open Task Manager directly.
+Ctrl + Shift + N: Create a new folder (in file explorer).
+Ctrl + Shift + T: Reopen the last closed tab in a browser.
+Ctrl + Esc: Open the Start menu.
+Ctrl + Shift + V: Paste text without formatting.
+Ctrl + Shift + Arrow keys: Select text by whole words.
+Ctrl + Alt + Delete: Open the security options menu (commonly used to lock the computer, log out, or access Task Manager in older versions of Windows).
+Windows key + D: Show or hide the desktop.
+Windows key + L: Lock the computer and switch users.
