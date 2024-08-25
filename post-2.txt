@@ -1,0 +1,324 @@
+1. What is a computer?
+   - A computer is an electronic device that processes data according to a set of instructions to produce meaningful information.
+
+2. What are the basic components of a computer?
+   - Input Unit: Receives data.
+   - Output Unit: Displays results.
+   - CPU (Central Processing Unit): Executes instructions.
+   - Memory Unit: Stores data temporarily.
+   - Storage Unit: Stores data permanently.
+
+3. What is the CPU?
+   - The CPU, or Central Processing Unit, is the brain of the computer where most calculations take place. It includes the Arithmetic Logic Unit (ALU), Control Unit (CU), and registers.
+
+4. What is the difference between RAM and ROM?
+   - RAM (Random Access Memory): Volatile memory used for temporary data storage while the computer is running.
+   - ROM (Read-Only Memory): Non-volatile memory used to store the firmware or BIOS that is permanently written during manufacturing.
+
+5. What is an operating system?
+   - An operating system (OS) is software that manages computer hardware and software resources and provides services for computer programs.
+
+6. What is software?
+   - Software is a set of instructions that tells the computer how to perform specific tasks. It is categorized into system software and application software.
+
+7. What are input and output devices?
+   - Input Devices: Allow users to input data into the computer (e.g., keyboard, mouse).
+   - Output Devices: Display or output the results of computer processes (e.g., monitor, printer).
+
+8. What is a hard disk?
+   - A hard disk is a data storage device used for storing and retrieving digital information using magnetic storage.
+
+9. What is a network?
+   - A network is a group of two or more computer systems linked together to share resources and information.
+
+10. What is the Internet?
+   - The Internet is a global network of interconnected computers that communicate using standardized protocols to share information and resources.
+
+11. What is a programming language?
+   - A programming language is a set of rules and syntax used to write programs that instruct a computer to perform specific tasks.
+
+12. What is the difference between a compiler and an interpreter?
+   - Compiler: Translates the entire source code of a program into machine code before execution.
+   - Interpreter: Translates and executes code line by line at runtime.
+
+13. What is an algorithm?
+   - An algorithm is a step-by-step procedure or formula for solving a problem or performing a task.
+
+14. What is data?
+   - Data is raw, unprocessed facts and figures without context, which can be processed to produce information.
+
+15. What is the difference between hardware and software?
+   - Hardware: The physical components of a computer system.
+   - Software: The programs and applications that run on the hardware.
+
+16. What is the function of the Control Unit (CU) in a CPU?
+   - The Control Unit (CU) directs the operation of the processor. It tells the computer’s memory, arithmetic/logic unit, and input/output devices how to respond to a program's instructions.
+
+17. What is the purpose of the Arithmetic Logic Unit (ALU)?
+   - The ALU performs arithmetic operations (like addition and subtraction) and logical operations (like comparison operations) within the CPU.
+
+18. What is the difference between system software and application software?
+   - System Software: Includes the operating system and utilities that manage computer resources at a low level.
+   - Application Software: Programs designed to perform specific tasks for the user, such as word processing or browsing the web.
+
+19. What is a file system?
+   - A file system organizes and manages files and directories on a storage device, determining how data is stored, accessed, and managed.
+
+20. What is a byte?
+   - A byte is a unit of digital information that consists of 8 bits. It is the standard size for representing a character in most computer systems.
+
+21. What are the types of computer memory?
+   - Primary Memory: Includes RAM and ROM, used for temporary and permanent storage directly accessible by the CPU.
+   - Secondary Memory: Includes hard drives, SSDs, CDs, and USB drives, used for long-term storage.
+
+22. What is virtualization?
+   - Virtualization is the creation of a virtual version of something, such as a server, a storage device, or network resources, often used to run multiple operating systems on a single physical machine.
+
+23. What is cloud computing?
+   - Cloud computing is the delivery of computing services (like servers, storage, databases, networking, software) over the internet ("the cloud") to offer faster innovation, flexible resources, and economies of scale.
+
+24. What is a motherboard?
+   - The motherboard is the main circuit board of a computer that connects all the components, including the CPU, RAM, and storage devices, and allows them to communicate with each other.
+
+25. What is an IP address?
+   - An IP (Internet Protocol) address is a unique numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication.
+
+26. What is a GUI?
+   - A GUI (Graphical User Interface) allows users to interact with a computer using graphical elements like windows, icons, and buttons, instead of text-based commands.
+
+27. What is binary code?
+   - Binary code is the most basic form of data in a computer, representing information using only two states: 0 and 1.
+
+28. What is a bit?
+   - A bit (binary digit) is the smallest unit of data in a computer, representing a single binary value, either 0 or 1.
+
+29. What is a network topology?
+   - Network topology refers to the arrangement or layout of various elements (links, nodes) in a computer network. Common topologies include bus, star, ring, and mesh.
+
+30. What is malware?
+   - Malware (malicious software) is any software intentionally designed to cause damage to a computer, server, or network. Examples include viruses, worms, and trojans.
+
+31. What is encryption?
+   - Encryption is the process of converting data into a coded format to prevent unauthorized access. It ensures data confidentiality and security during transmission.
+
+32. What is an SSD?
+   - An SSD (Solid State Drive) is a type of storage device that uses flash memory to store data, offering faster access speeds compared to traditional hard drives (HDDs).
+
+33. What is BIOS?
+   - BIOS (Basic Input/Output System) is firmware used to perform hardware initialization and to provide runtime services for operating systems and programs during the booting process.
+
+34. What is an algorithm's time complexity?
+   - Time complexity is a measure of the amount of time an algorithm takes to complete as a function of the length of the input. It is often expressed using Big O notation.
+
+35. What is the difference between TCP and UDP?
+   - TCP (Transmission Control Protocol): A connection-oriented protocol that ensures reliable data transmission.
+   - UDP (User Datagram Protocol): A connectionless protocol that allows faster data transmission but does not guarantee delivery.
+
+36. What is cache memory?
+   - Cache memory is a small, high-speed memory located close to the CPU that stores frequently accessed data and instructions, reducing the time needed to access data from the main memory.
+
+37. What is a database?
+   - A database is an organized collection of data that can be easily accessed, managed, and updated. Databases are managed by database management systems (DBMS).
+
+38. What is the function of a router?
+   - A router is a networking device that forwards data packets between computer networks, directing traffic on the internet.
+
+39. What is a protocol?
+   - A protocol is a set of rules or standards that define how data is transmitted and received over a network.
+
+40. What is the difference between HTTP and HTTPS?
+   - HTTP (Hypertext Transfer Protocol): The protocol used for transmitting web pages over the internet.
+   - HTTPS (Hypertext Transfer Protocol Secure): The secure version of HTTP that encrypts data for secure communication.
+
+41. What is a microprocessor?
+   - A microprocessor is an integrated circuit that contains the functions of a central processing unit (CPU) of a computer. It performs arithmetic and logic operations and controls the computer system.
+
+
+42. What is a compiler?
+   - A compiler is a software program that translates high-level source code written in a programming language into machine code or binary code that a computer's processor can execute.
+
+43. What is a router’s primary function in a network?
+   - A router’s primary function is to forward data packets between different networks, directing the data along the best path to its destination.
+
+44. What is a bus in computer architecture?
+   - A bus is a communication system that transfers data between components inside a computer or between computers. It consists of a set of parallel wires and is used to carry data, address, and control signals.
+
+45. What is the difference between synchronous and asynchronous communication?
+   - Synchronous Communication: Data is sent at regular intervals, with both the sender and receiver synchronized by a clock signal.
+   - Asynchronous Communication: Data is sent at irregular intervals, with start and stop bits used to synchronize the sender and receiver.
+
+46. What is an expansion card?
+   - An expansion card is a printed circuit board that can be inserted into an expansion slot on a computer motherboard to add new features or enhance existing functionality, such as graphics, sound, or network capabilities.
+
+47. What is the purpose of the BIOS in a computer?
+   - The BIOS (Basic Input/Output System) initializes and tests the hardware components during the booting process and loads the operating system into the computer's memory.
+
+48. What is a firewall?
+   - A firewall is a security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules, helping to protect the network from unauthorized access and threats.
+
+49. What is the difference between static and dynamic IP addresses?
+   - Static IP Address: A permanent IP address assigned to a device, typically used for servers and devices that need a consistent address.
+   - Dynamic IP Address: An IP address assigned by a DHCP server that can change periodically, typically used for client devices.
+
+50. What is multitasking in an operating system?
+   - Multitasking is the ability of an operating system to execute multiple tasks or processes simultaneously, allowing a user to run more than one application at the same time.
+
+51. What is virtual memory?
+   - Virtual memory is a memory management technique that allows the operating system to use hard drive space as additional RAM, extending the apparent amount of available memory.
+
+52. What is a DNS (Domain Name System)?
+   - DNS is a hierarchical naming system used to translate human-readable domain names (like www.example.com) into IP addresses that computers use to identify each other on the network.
+
+53. What is an API (Application Programming Interface)?
+   - An API is a set of protocols, routines, and tools for building software applications. It defines how different software components should interact with each other.
+
+54. What is a proxy server?
+   - A proxy server acts as an intermediary between a client requesting a resource and the server providing that resource, often used to improve performance, control access, or provide anonymity.
+55. What is a pixel?
+   - A pixel is the smallest unit of a digital image or graphic that can be displayed and represented on a digital display device. It is typically a single point in a graphic.
+
+56. What is the purpose of a heat sink in a computer?
+   - A heat sink is a passive cooling device that absorbs and dissipates heat from the CPU or other components to prevent them from overheating.
+
+57. What is RAID (Redundant Array of Independent Disks)?
+   - RAID is a data storage virtualization technology that combines multiple physical disk drives into one or more logical units for redundancy, performance improvement, or both.
+
+58. What is an SSD (Solid State Drive), and how does it differ from an HDD (Hard Disk Drive)?
+   - An SSD is a type of storage device that uses flash memory to store data. It has no moving parts, making it faster and more reliable than an HDD, which uses spinning disks to read and write data.
+
+59. What is the purpose of the OSI model?
+   - The OSI (Open Systems Interconnection) model is a conceptual framework used to understand and standardize the functions of a networking system, divided into seven layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application.
+
+60. What is a kernel in an operating system?
+   - The kernel is the core part of an operating system, managing system resources, communication between hardware and software, and providing basic services like process management, memory management, and device management.
+
+61. What is a database management system (DBMS)?
+   - A DBMS is software that provides an interface for creating, managing, and manipulating databases, allowing users to store, retrieve, and manage data efficiently.
+
+62. What is the purpose of an IP subnet mask?
+   - An IP subnet mask is used to divide an IP address into a network and host identifier, determining which part of the IP address refers to the network and which part refers to the device.
+
+63. What is a VPN (Virtual Private Network)?
+   - A VPN is a secure connection method used to protect data transmitted over the internet by creating an encrypted tunnel between the user's device and the VPN server.
+
+64. What is a trojan horse in computing?
+   - A trojan horse is a type of malicious software that disguises itself as a legitimate program to deceive users into installing it, leading to unauthorized access or damage to the computer system.
+
+65. What is the difference between LAN and WAN?
+   - LAN (Local Area Network): A network that covers a small geographic area, such as a single building or campus.
+   - WAN (Wide Area Network): A network that covers a broad geographic area, connecting multiple LANs over long distances.
+
+66. What is cloud storage?
+   - Cloud storage is a service model in which data is stored on remote servers accessed from the internet, allowing users to store, manage, and retrieve their data from anywhere.
+
+67. What is a thread in computing?
+   - A thread is the smallest unit of processing that can be executed independently by a CPU. Multiple threads can exist within the same process, sharing resources like memory but executing independently.
+
+
+
+68. What is the difference between a peer-to-peer network and a client-server network?
+   - Peer-to-Peer Network: Each device on the network can act as both a client and a server, sharing resources directly with other devices.
+   - Client-Server Network: Devices on the network are designated as either clients, which request resources, or servers, which provide resources.
+
+69. What is the purpose of the FAT (File Allocation Table)?
+   - FAT is a file system architecture used in computers to manage and organize files on a disk, keeping track of the locations of individual pieces of files.
+
+70. What is latency in networking?
+   - Latency is the delay between a request for data and the actual delivery of the data over a network. It is often measured in milliseconds.
+
+71. What is a bootstrap program?
+   - A bootstrap program is a small program that initializes the operating system during the computer startup process. It loads the main operating system into memory so the computer can begin operation.
+
+72. What is the difference between analog and digital signals?
+   - Analog Signals: Continuous signals that vary over time and can take any value in a range.
+   - Digital Signals: Discrete signals that represent data in binary form (0s and 1s).
+
+73. What is a bitmap image?
+   - A bitmap image is a type of digital image composed of individual pixels arranged in a grid, where each pixel represents a color value. The image is resolution-dependent.
+
+74. What is a kernel panic?
+   - A kernel panic is an action taken by an operating system upon detecting a fatal error from which it cannot safely recover. It usually results in a system crash or the need for a reboot.
+
+75. What is firmware?
+   - Firmware is a type of software that is permanently programmed into a hardware device, typically stored in non-volatile memory like ROM, and controls the device's basic functions.
+
+76. What is a cache miss?
+   - A cache miss occurs when the data requested by the CPU is not found in the cache memory, forcing the system to retrieve the data from the main memory, which is slower.
+
+77. What is a socket in networking?
+   - A socket is an endpoint for sending or receiving data across a computer network. It is a combination of an IP address and a port number, enabling communication between devices.
+
+78. What is a virtual machine (VM)?
+   - A virtual machine is a software emulation of a physical computer that runs an operating system and applications just like a real computer. Multiple VMs can run on a single physical machine.
+
+79. What is the difference between lossless and lossy compression?
+   - Lossless Compression: Reduces file size without losing any data, allowing the original data to be perfectly reconstructed (e.g., ZIP, PNG).
+   - Lossy Compression: Reduces file size by permanently eliminating some data, which may result in a loss of quality (e.g., JPEG, MP3).
+
+
+
+80. What is the difference between symmetric and asymmetric encryption?
+   - Symmetric Encryption: Uses the same key for both encryption and decryption, making it faster but requiring secure key distribution.
+   - Asymmetric Encryption: Uses a pair of keys, a public key for encryption and a private key for decryption, enhancing security by not requiring key exchange.
+
+81. What is a URL (Uniform Resource Locator)?
+   - A URL is the address of a resource on the internet. It specifies the location of a web page or file, as well as the protocol used to access it (e.g., https://www.example.com).
+
+82. What is a deadlock in operating systems?
+   - A deadlock is a situation in a multitasking environment where two or more processes are unable to proceed because each is waiting for the other to release a resource.
+
+83. What is a shell in computing?
+   - A shell is a user interface that provides access to an operating system's services. It can be command-line-based (e.g., Bash) or graphical (e.g., GNOME).
+
+84. What is a daemon?
+   - A daemon is a background process that runs on a Unix or Linux system, typically without user interaction, and performs tasks such as handling network requests, managing hardware devices, or running scheduled jobs.
+
+85. What is a swap file?
+   - A swap file is a space on a hard drive used as virtual memory when the system’s RAM is full. It temporarily holds data that is not actively being used to free up RAM for other tasks.
+
+86. What is the function of a file system?
+   - A file system organizes and manages how data is stored, retrieved, and updated on a storage device, such as a hard drive or SSD, allowing users and applications to create, modify, delete, and access files.
+
+87. What is packet switching?
+   - Packet switching is a method of transmitting data in small packets across a network, where each packet can take different paths to reach the destination. It is efficient for use in digital networks, including the internet.
+
+88. What is a dual-core processor?
+   - A dual-core processor is a CPU with two independent cores that can read and execute program instructions. This allows for better multitasking and improved performance compared to single-core processors.
+
+89. What is a distributed system?
+   - A distributed system is a collection of independent computers that appear to the user as a single coherent system. These computers work together to achieve a common goal, sharing resources and coordinating their actions.
+
+90. What is the purpose of the system clock in a computer?
+   - The system clock synchronizes the operations of the computer's components by providing a timing signal that coordinates the execution of instructions, data transfers, and other activities within the system.
+
+91. What is a hypervisor?
+   - A hypervisor, also known as a virtual machine monitor (VMM), is software that creates and manages virtual machines by allowing multiple operating systems to run concurrently on a single physical machine.
+
+92. What is a subnet?
+   - A subnet is a segmented piece of a larger network, allowing organizations to partition their networks into smaller, more manageable sections, each with its own unique range of IP addresses.
+
+93. What is a command-line interface (CLI)?
+   - A command-line interface (CLI) is a text-based user interface used to interact with the operating system or software by typing commands.
+
+94. What is an interrupt?
+   - An interrupt is a signal sent to the CPU by hardware or software indicating an event that needs immediate attention, temporarily halting the current process to execute a higher-priority task.
+
+95. What is the difference between primary and secondary storage?
+   - Primary Storage: Refers to the computer's main memory, such as RAM, which is volatile and faster.
+   - Secondary Storage: Refers to external or auxiliary storage devices, like hard drives or SSDs, which are non-volatile and used for long-term data storage.
+
+96. What is a DNS server?
+   - A DNS server translates domain names into IP addresses, allowing users to access websites using human-readable names instead of numerical IP addresses.
+
+97. What is phishing?
+   - Phishing is a type of cyber-attack in which attackers impersonate legitimate organizations via email, phone, or text messages to steal sensitive information like passwords or credit card numbers.
+
+98. What is a load balancer?
+   - A load balancer is a device or software that distributes incoming network traffic across multiple servers, ensuring no single server becomes overwhelmed, thus improving application performance and availability.
+
+99. What is the difference between hot swapping and hot plugging?
+   - Hot Swapping: Refers to the ability to replace or add components (like a hard drive) while the system is running without affecting the system's operation.
+   - Hot Plugging: Refers to the ability to connect and disconnect devices (like USB peripherals) while the computer is on, without restarting.
+
+100. What is a bus topology?
+   - A bus topology is a network design where all devices are connected to a single central cable, or "bus," through which data is transmitted. It’s simple and cost-effective but can suffer from performance issues as more devices are added.
