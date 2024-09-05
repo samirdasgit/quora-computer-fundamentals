@@ -1,0 +1,215 @@
+1: What is a computer?
+Answer: A computer is an electronic device that processes data according to a set of instructions to produce a meaningful output. It can perform various tasks such as calculations, data processing, and information storage and retrieval.
+
+2: What is the function of the Central Processing Unit (CPU)?
+Answer: The Central Processing Unit (CPU) is the brain of the computer that performs all the instructions given to the computer by executing programs. It consists of two main components: the Arithmetic Logic Unit (ALU) and the Control Unit (CU).
+
+3: Define software and give an example.
+Answer: Software is a collection of programs and related data that provides instructions for the computer on how to perform specific tasks. An example of software is Microsoft Word, which is used for word processing.
+
+4: What is an operating system?
+Answer: An operating system (OS) is system software that manages computer hardware and software resources and provides common services for computer programs. Examples include Windows, macOS, and Linux.
+
+5: What is the difference between RAM and ROM?
+Answer: RAM (Random Access Memory) is a type of volatile memory that stores data temporarily while the computer is on. ROM (Read-Only Memory) is non-volatile memory that stores essential data permanently, like the computer’s firmware, and cannot be modified.
+
+6: Explain the term ‘bit’ and ‘byte.’
+Answer: A 'bit' is the smallest unit of data in a computer, represented by a 0 or 1. A 'byte' is a unit of data consisting of 8 bits, which can represent 256 different values (0-255).
+
+7: What is a network?
+Answer: A network is a group of two or more computers or devices that are connected to each other to share resources (such as files, printers, and internet connections) and communicate.
+
+8: What is the purpose of a hard disk drive (HDD)?
+Answer: A hard disk drive (HDD) is a data storage device used to store and retrieve digital information using magnetic storage. It is commonly used for storing the operating system, software, and personal files.
+
+9: What is a database?
+Answer: A database is an organized collection of structured data or information, typically stored electronically in a computer system, and managed by a database management system (DBMS). Examples include MySQL and MongoDB.
+
+10: What is a compiler?
+Answer: A compiler is a software tool that translates high-level programming code written in languages like C or Java into machine code (binary code) that a computer’s CPU can execute.
+
+11: What is the difference between input and output devices? Give examples.
+Answer: Input devices are hardware used to provide data and control signals to a computer, such as a keyboard or mouse. Output devices are hardware that receive data from the computer and translate it into a form that humans can understand, like monitors and printers.
+
+12: What is cloud computing?
+Answer: Cloud computing is a technology that allows users to store and access data and applications over the internet instead of on a local computer or server. Examples of cloud services include Google Drive and Amazon Web Services (AWS).
+
+13: What is a URL?
+Answer: A URL (Uniform Resource Locator) is the address used to access resources on the internet. It specifies the location of a resource (like a webpage) and the protocol used to retrieve it. For example, `https://www.example.com` is a URL.
+
+14: Explain the term ‘bitwise operation.’
+Answer: Bitwise operations are operations that directly manipulate bits of binary data. These operations include AND, OR, XOR, and NOT, and they are performed bit by bit on the binary representations of numbers.
+
+15: What is a motherboard?
+Answer: A motherboard is the main printed circuit board (PCB) in a computer that connects and allows communication between all the components, including the CPU, memory, and peripheral devices.
+
+16: What is an IP address?
+Answer: An IP address (Internet Protocol address) is a unique numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. It identifies and locates devices on the network.
+
+17: What is the function of a cache memory?
+Answer: Cache memory is a small, high-speed memory located close to the CPU. It temporarily stores frequently accessed data and instructions, allowing the CPU to access them quickly and improving overall processing speed.
+
+18: What is an algorithm?
+Answer: An algorithm is a step-by-step procedure or formula for solving a problem or performing a task. It is a finite sequence of well-defined instructions, typically used for calculation, data processing, and automated reasoning.
+
+19: What is the difference between analog and digital signals?
+Answer: Analog signals are continuous waveforms that vary over time, representing data as a continuous flow, such as sound waves. Digital signals, on the other hand, are discrete waveforms that represent data in binary form (0s and 1s), such as data in a computer.
+
+20: What is the purpose of an IP address subnet mask?
+Answer: A subnet mask is used in an IP address to divide the IP address into the network and host portions. It helps in identifying which part of the IP address refers to the network and which part refers to the host, thus facilitating the routing of data within and between networks.
+
+21: Define the term ‘firewall.’
+Answer: A firewall is a network security device or software that monitors and controls incoming and outgoing network traffic based on predetermined security rules. It acts as a barrier between a trusted internal network and untrusted external networks like the internet.
+
+22: What is the purpose of a BIOS?
+Answer: BIOS (Basic Input/Output System) is firmware used to perform hardware initialization during the booting process and provide runtime services for operating systems and programs. It is the first software that runs when a computer is powered on.
+
+23: What is ASCII?
+Answer: ASCII (American Standard Code for Information Interchange) is a character encoding standard used to represent text in computers and other devices that use text. It encodes 128 specified characters into 7-bit binary integers.
+
+24: What is a DNS server?
+Answer: A DNS (Domain Name System) server translates domain names (like www.example.com) into IP addresses that computers use to identify each other on the network. It helps users access websites using easy-to-remember names instead of numerical IP addresses.
+
+25: What is the purpose of the Control Unit (CU) in the CPU?
+Answer: The Control Unit (CU) in the CPU directs the operation of the processor. It tells the memory, ALU, and input/output devices how to respond to the instructions sent to the CPU by fetching, decoding, and executing them.
+
+26: What is a pixel?
+Answer: A pixel (short for "picture element") is the smallest unit of a digital image or display, representing a single point of color. Pixels are arranged in a grid to form images on screens, with each pixel displaying a specific color.
+
+27: Define the term ‘multi-tasking.’
+Answer: Multi-tasking is the ability of a computer to execute multiple tasks (or processes) simultaneously. It is managed by the operating system, which allocates CPU time to each task, giving the appearance that they are running concurrently.
+
+28: What is the difference between a hub and a switch?
+Answer: A hub is a basic networking device that broadcasts data to all devices on a network, while a switch is more advanced, sending data only to the specific device for which it is intended. This makes switches more efficient in managing network traffic.
+
+29: What is a graphical user interface (GUI)?
+Answer: A graphical user interface (GUI) is a user interface that allows users to interact with a computer through graphical elements like windows, icons, and buttons, instead of text commands. Examples include the interfaces of operating systems like Windows and macOS.
+
+30: What is virtual memory?
+Answer: Virtual memory is a memory management technique that uses a portion of a computer's hard drive as additional RAM. It allows the computer to run larger programs or multiple programs simultaneously by temporarily transferring data from RAM to disk storage.
+
+31: What is an IP packet?
+Answer: An IP packet is a formatted unit of data carried by an IP network. It contains both the data being transmitted and control information, such as source and destination IP addresses, used to route the data to its intended destination.
+
+32: What is a bootloader?
+Answer: A bootloader is a small program that runs when a computer is powered on and is responsible for loading the operating system into memory. It initializes the system and starts the operating system's boot process.
+
+33: What is a virtual private network (VPN)?
+Answer: A virtual private network (VPN) is a secure connection method used to protect data transmitted over public networks like the internet. It creates a private, encrypted tunnel for data, allowing users to securely access resources and protect their privacy online.
+
+34: What is a byte?
+Answer: A byte is a unit of digital information that consists of 8 bits. It is commonly used to represent a single character of text in computer systems and can store 256 different values (0-255).
+
+35: What is a database management system (DBMS)?
+Answer: A database management system (DBMS) is software that provides an interface for users to interact with a database. It manages data storage, retrieval, and manipulation, and ensures data integrity and security. Examples include MySQL, Oracle, and MongoDB.
+
+36: What is the purpose of an email client?
+Answer: An email client is software that allows users to send, receive, and manage email messages. Examples include Microsoft Outlook, Mozilla Thunderbird, and Apple Mail. It provides a user interface for accessing and organizing email accounts.
+
+37: What is a web server?
+Answer: A web server is software or hardware that stores, processes, and serves web pages to clients over the internet or an intranet. It handles HTTP requests and responses, delivering web content such as HTML pages and media files. Examples include Apache and Nginx.
+
+38: What is a driver in computing?
+Answer: A driver is a small software program that allows the operating system to communicate with hardware devices, such as printers, graphics cards, or network adapters. It translates commands from the OS into instructions the hardware can understand.
+
+39: What is a file extension?
+Answer: A file extension is a suffix at the end of a file name that indicates the file's format or type. It helps the operating system and software programs identify how to open or handle the file. Examples include `.txt`, `.jpg`, and `.pdf`.
+
+40: What is a hyperlink?
+Answer: A hyperlink is a clickable reference in a webpage that directs users to another page or resource, such as another webpage, a document, or a media file. It is typically displayed as underlined text or an image.
+
+41: What is a cloud storage service?
+Answer: A cloud storage service is a service that allows users to store data on remote servers accessible via the internet. It provides online access to files and enables data sharing and collaboration. Examples include Google Drive, Dropbox, and OneDrive.
+
+42: What is the purpose of a cache in a computer system?
+Answer: A cache is a high-speed storage area that temporarily holds frequently accessed data or instructions to speed up processing. By reducing the time needed to fetch data from slower storage, a cache improves overall system performance.
+
+43: What is a protocol in computer networks?
+Answer: A protocol is a set of rules and standards that define how data is transmitted and received over a network. It ensures that data exchange between devices is conducted in a consistent and understandable manner. Examples include HTTP, FTP, and TCP/IP.
+
+44: What is the role of a system administrator?
+Answer: A system administrator is responsible for managing and maintaining a computer system or network. Duties include installing software, configuring hardware, managing user accounts, ensuring system security, and troubleshooting issues.
+
+45: What is the difference between a 32-bit and a 64-bit processor?
+Answer: A 32-bit processor can handle 32 bits of data at a time and can address up to 4 GB of RAM, while a 64-bit processor can handle 64 bits of data at a time and can address much larger amounts of RAM, improving performance and supporting more advanced applications.
+
+46: What is an API (Application Programming Interface)?
+Answer: An API (Application Programming Interface) is a set of defined methods and protocols that allow different software applications to communicate with each other. It enables developers to integrate external services and functionalities into their own applications.
+
+47: What is a “boot” process in a computer?
+Answer: The boot process is the sequence of events that occurs when a computer is powered on or restarted. It involves initializing hardware, loading the operating system, and starting essential system services to make the computer ready for use.
+
+48: What is a binary number system?
+Answer: The binary number system is a base-2 numeral system that uses only two digits, 0 and 1. It is the fundamental system used in digital computing and electronic systems to represent data and perform calculations.
+
+49: What is a buffer?
+Answer: A buffer is a temporary storage area used to hold data while it is being transferred between two locations or processed. Buffers help manage differences in processing speed between hardware components and prevent data loss.
+
+50: What is the purpose of a computer’s BIOS setup utility?
+Answer: The BIOS setup utility allows users to configure hardware settings and manage system parameters, such as boot order, system clock settings, and hardware component configurations. It provides access to basic system settings before the operating system loads.
+
+51: What is a “cookie” in web browsing?
+Answer: A cookie is a small piece of data stored on a user’s device by a web browser. It helps websites remember user preferences, login details, and other information to enhance the browsing experience and provide personalized content.
+
+52: What is data encryption?
+Answer: Data encryption is the process of converting data into a secure format that cannot be read or understood without proper decryption. It protects sensitive information from unauthorized access during storage or transmission. Examples include AES and RSA encryption.
+
+53: What is a spreadsheet?
+Answer: A spreadsheet is a digital tool used for organizing, analyzing, and storing data in tabular form. It allows users to perform calculations, create charts, and manage data with rows and columns. Examples include Microsoft Excel and Google Sheets.
+
+54: What is a software patch?
+Answer: A software patch is an update released by software developers to fix bugs, address security vulnerabilities, or improve functionality. It is applied to an existing version of software to resolve issues and enhance performance.
+
+55: What is a data type in programming?
+Answer: A data type defines the kind of data a variable can hold and how it can be used in programming. Common data types include integers, floating-point numbers, characters, and strings. They determine the operations that can be performed on the data.
+
+56: What is a LAN (Local Area Network)?
+Answer: A LAN (Local Area Network) is a network that connects computers and devices within a limited geographic area, such as an office or home. It enables devices to share resources like files and printers and communicate with each other efficiently.
+
+57: What is an operating system kernel?
+Answer: The kernel is the core part of an operating system that manages system resources, including memory, processes, and hardware devices. It provides a foundation for the operating system to function and acts as an intermediary between the hardware and software.
+
+58: What is a system call?
+Answer: A system call is a request made by a program to the operating system’s kernel to perform a specific function, such as reading or writing files, creating processes, or managing memory. System calls provide an interface for applications to interact with system resources.
+
+59: What is a virtual machine (VM)?
+Answer: A virtual machine (VM) is an emulation of a physical computer that runs on a host system, providing an isolated environment for running an operating system and applications. VMs are created using virtualization software, allowing multiple VMs to run on a single physical machine.
+
+60: What is a kernel module?
+Answer: A kernel module is a piece of code that can be loaded into the kernel of an operating system at runtime to extend its functionality. Modules allow for adding new features or drivers without needing to reboot the system. Examples include device drivers and file system modules.
+
+61: What is an SSL/TLS certificate?
+Answer: An SSL/TLS certificate is a digital certificate that provides secure, encrypted communication between a web server and a client (such as a web browser). It ensures that data transmitted over the internet is protected from eavesdropping and tampering.
+
+62: What is the difference between a static and a dynamic IP address?
+Answer: A static IP address is a fixed address assigned to a device that does not change, providing a consistent point of contact. A dynamic IP address is assigned by a DHCP server and can change over time, typically used for devices that do not require a fixed address.
+
+63: What is a server?
+Answer: A server is a computer or software application that provides services or resources to other computers (clients) over a network. Servers can host websites, manage emails, store files, and provide various network services.
+
+64: What is the difference between software and hardware?
+Answer: Hardware refers to the physical components of a computer system, such as the CPU, memory, and hard drive. Software refers to the programs and operating systems that run on the hardware, providing instructions for performing tasks and operations.
+
+65: What is a GUI (Graphical User Interface)?
+Answer: A GUI (Graphical User Interface) is a type of user interface that allows users to interact with a computer using graphical elements such as windows, icons, and buttons, rather than text-based commands. It makes computing more intuitive and user-friendly.
+
+66: What is the purpose of a VPN (Virtual Private Network)?
+Answer: A VPN (Virtual Private Network) provides a secure, encrypted connection over a public network, such as the internet. It helps protect data privacy, allows remote access to network resources, and masks the user's IP address.
+
+67: What is a router?
+Answer: A router is a networking device that directs data packets between different networks, such as between a local area network (LAN) and the internet. It uses routing tables and protocols to determine the most efficient path for data to travel.
+
+68: What is a domain name?
+Answer: A domain name is a human-readable address used to identify a website on the internet. It maps to an IP address, allowing users to access websites using easy-to-remember names instead of numerical IP addresses (e.g., www.example.com).
+
+69: What is the role of the Operating System (OS)?
+Answer: The Operating System (OS) manages hardware resources and provides services for computer programs. It controls hardware functions, manages memory, handles input/output operations, and provides a user interface for interacting with the system.
+
+70: What is the purpose of a POST (Power-On Self-Test)?
+Answer: POST (Power-On Self-Test) is a diagnostic process that runs when a computer is powered on. It checks the hardware components, such as memory and storage, to ensure they are functioning correctly before the operating system loads.
+
+71: What is the difference between RAM and ROM?
+Answer: RAM (Random Access Memory) is volatile memory used for temporary storage while the computer is running, allowing quick access to data. ROM (Read-Only Memory) is non-volatile memory that stores firmware and system software permanently.
+
+72: What is the purpose of a system call in an operating system?
+Answer: A system call is an interface that allows user-level applications to request services from the operating system's kernel, such as file operations, process control, and memory management. It provides a controlled way for applications to interact with system resources.
