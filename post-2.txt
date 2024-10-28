@@ -174,6 +174,7 @@
 
 54. What is a proxy server?
    - A proxy server acts as an intermediary between a client requesting a resource and the server providing that resource, often used to improve performance, control access, or provide anonymity.
+
 55. What is a pixel?
    - A pixel is the smallest unit of a digital image or graphic that can be displayed and represented on a digital display device. It is typically a single point in a graphic.
 
@@ -214,8 +215,6 @@
 67. What is a thread in computing?
    - A thread is the smallest unit of processing that can be executed independently by a CPU. Multiple threads can exist within the same process, sharing resources like memory but executing independently.
 
-
-
 68. What is the difference between a peer-to-peer network and a client-server network?
    - Peer-to-Peer Network: Each device on the network can act as both a client and a server, sharing resources directly with other devices.
    - Client-Server Network: Devices on the network are designated as either clients, which request resources, or servers, which provide resources.
@@ -254,8 +253,6 @@
 79. What is the difference between lossless and lossy compression?
    - Lossless Compression: Reduces file size without losing any data, allowing the original data to be perfectly reconstructed (e.g., ZIP, PNG).
    - Lossy Compression: Reduces file size by permanently eliminating some data, which may result in a loss of quality (e.g., JPEG, MP3).
-
-
 
 80. What is the difference between symmetric and asymmetric encryption?
    - Symmetric Encryption: Uses the same key for both encryption and decryption, making it faster but requiring secure key distribution.
